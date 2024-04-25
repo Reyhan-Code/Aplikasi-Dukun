@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Prediksi" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="tombol" parent="Base.Theme.Prediksi">
+        <item name="backgroundTint">#FAA300</item>
+    </style>
+
+
+    <style name="Theme.Prediksi" parent="Base.Theme.Prediksi" />
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Dukun</string>
+    <string name="prediksi">Prediksi</string>
+    <string name="prediksi_hasil">Hasil Prediksi:</string>
+    <string name="masukkan_data_pisahkan_dengan_koma">Masukkan data (pisahkan dengan koma)</string>
+    <string name="data">Data :</string>
+    <string name="data_bulan">Pilih Bulan Terakhir Yang Akan dihitung :</string>
+    <string name="bulanan">Bulanan</string>
+    <string name="tahunan">Tahunan</string>
+    <string name="_3_bulan">3 Bulan</string>
+    <string name="_4_bulan">4 Bulan</string>
+    <string name="_5_bulan">5 Bulan</string>
+</resources>
